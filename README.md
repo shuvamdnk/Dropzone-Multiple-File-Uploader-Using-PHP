@@ -13,10 +13,6 @@ import gallery.sql file
 <h2>Project Demo</h2>
 https://modalgallery.epizy.com/
 
-<img src="https://modalgallery.epizy.com/upload/1630557930Screenshot%20(1570).png" />
-<img src="https://modalgallery.epizy.com/upload/1630557930Screenshot%20(1571).png" />
-<img src="https://modalgallery.epizy.com/upload/1630557943Screenshot%20(1572).png" />
-<img src="https://modalgallery.epizy.com/upload/1630557957Screenshot%20(1573).png" />
 <hr>
 <h2>DropzoneJS</h2>
 
