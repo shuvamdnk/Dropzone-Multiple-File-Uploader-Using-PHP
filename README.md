@@ -14,6 +14,10 @@ import gallery.sql file
 https://modalgallery.epizy.com/
 
 <hr>
+<h2>Blog</h2>
+https://freeworkspace.epizy.com/dropzone-multiple-file-uploader-using-php/
+
+<hr>
 <h2>DropzoneJS</h2>
 
 DropzoneJS is an open source library that provides drag’n’drop file uploads with image previews.
