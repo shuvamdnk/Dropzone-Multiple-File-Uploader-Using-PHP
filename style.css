@@ -1,0 +1,61 @@
+ #delete-btn{
+    font-weight: bolder;
+    padding: 2px 7px 0px 7px;
+     position: absolute; 
+     border-radius: 50%;
+    margin-top: 75px;
+    font-size: 18px;
+    margin-left:5px;
+    border:none;
+    outline: none;
+ }
+#download-btn{
+  font-weight: bolder;
+  padding: 0px 5px 1px 6px;
+  font-size: 18px;
+  position: absolute; 
+  border-radius: 50%;
+  margin-top: 5px;
+  margin-left: 5px;
+ border:none;   
+}
+
+#link-btn{
+  font-weight: bolder;
+  padding: 2px 6px 2px 7px;
+  position: absolute; 
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-left: 5px;
+  border: none;
+  font-size: 16px;
+}
+
+#img-div{
+	padding: 1px;
+	margin: 0; 
+	height: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+  #img-div{
+    margin-bottom:30px;
+    height: 200px;
+    }
+
+}
+
+
+.zoom:after #img{
+  content:'';
+  display:block; 
+  position:absolute; 
+}
+
+.zoom {
+  display:inline-block;
+  position: relative;
+}
+
+.zoom #img::selection { background-color: transparent;}
+
