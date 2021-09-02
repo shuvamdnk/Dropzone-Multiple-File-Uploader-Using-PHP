@@ -6,6 +6,7 @@ Dropzone  Multiple File Uploader Using PHP
 Download Project - git clone https://github.com/shuvamdnk/Dropzone-Multiple-File-Uploader-Using-PHP.git
 <br>
 Create Database gallery
+<br>
 import gallery.sql file 
 
 <hr>
